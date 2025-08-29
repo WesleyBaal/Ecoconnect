@@ -11,6 +11,14 @@ O **EcoConnect** é uma plataforma web inovadora que promove a economia circular
 - **Tecnologia**: Aplicar desenvolvimento web moderno para solução social
 - **Impacto**: Demonstrar como tecnologia pode promover economia sustentável
 
+## 🚀 Acesso à Aplicação
+
+### 🌐 Acesse a aplicação online:
+(em breve disponível via GitHub Pages ou outro serviço)
+
+### 📱 Teste o app agora:
+<!-- Link removido, será atualizado após novo deploy -->
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
@@ -37,7 +45,7 @@ O **EcoConnect** é uma plataforma web inovadora que promove a economia circular
 - [x] Dashboard com estatísticas
 - [x] Sistema de avaliações
 
-## 🏃‍♂️ Como Executar
+## 🏃‍♂️ Como Executar Localmente
 
 ### Pré-requisitos
 - Node.js 16+
@@ -47,7 +55,7 @@ O **EcoConnect** é uma plataforma web inovadora que promove a economia circular
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/ecoconnect.git
+git clone https://github.com/WesleyBaal/Ecoconnect.git
 cd ecoconnect
 ```
 
@@ -93,9 +101,8 @@ cd frontend
 npm start
 ```
 
-5. **Acesse a aplicação**
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:5000
+5. **Acesse a aplicação online**
+<!-- Links removidos, será atualizado após novo deploy -->
 
 ## 🔒 Segurança
 
@@ -144,4 +151,3 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-**Desenvolvido com ❤️ para promover Economia Sustentável através da Tecnologia**
