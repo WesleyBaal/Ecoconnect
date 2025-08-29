@@ -1,5 +1,4 @@
 🌱 EcoConnect - Plataforma de Economia Circular
-
 📋 Descrição do Projeto
 O EcoConnect é uma plataforma web inovadora que promove a economia circular conectando pessoas que desejam doar itens usados com aqueles que precisam deles. O projeto visa reduzir o desperdício, promover a sustentabilidade e criar uma comunidade consciente sobre o consumo responsável.
 
@@ -8,13 +7,6 @@ Sustentabilidade: Reduzir desperdício através da reutilização de itens
 Comunidade: Criar conexões entre pessoas com valores sustentáveis
 Tecnologia: Aplicar desenvolvimento web moderno para solução social
 Impacto: Demonstrar como tecnologia pode promover economia sustentável
-
-🚀 Acesso à Aplicação
-🌐 Acesse a aplicação online:
-(em breve disponível via GitHub Pages ou outro serviço)
-
-📱 Teste o app agora:
-
 🛠️ Tecnologias Utilizadas
 Frontend
 React.js - Interface moderna e responsiva
@@ -27,7 +19,6 @@ Express.js - Framework web
 SQLite - Banco de dados local
 JWT - Autenticação segura
 Multer - Upload de imagens
-
 🚀 Funcionalidades
 ✅ Implementadas
  Cadastro e login de usuários
@@ -37,14 +28,13 @@ Multer - Upload de imagens
  Upload de imagens
  Dashboard com estatísticas
  Sistema de avaliações
-
-🏃‍♂️ Como Executar Localmente
+🏃‍♂️ Como Executar
 Pré-requisitos
 Node.js 16+
 Conta Google Cloud (para Maps API) - opcional
 Instalação
 Clone o repositório
-git clone https://github.com/WesleyBaal/Ecoconnect.git
+git clone https://github.com/seu-usuario/ecoconnect.git
 cd ecoconnect
 Instale as dependências
 # Backend
@@ -77,7 +67,6 @@ npm start
 # Frontend (terminal 2)
 cd frontend
 npm start
-Acesse a aplicação online
 
 🔒 Segurança
 O projeto inclui várias medidas de segurança:
@@ -88,7 +77,6 @@ Sanitização de dados
 Headers de segurança (Helmet)
 CORS configurado
 Validação de entrada
-
 📊 Impacto Esperado
 Ambiental
 Redução de 30% no descarte de itens reutilizáveis
@@ -102,13 +90,16 @@ Econômico
 Economia para famílias
 Redução de custos de descarte
 Promoção de economia local
-
 🤝 Contribuindo
 Faça um fork do projeto
 Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
 Commit suas mudanças (git commit -m 'Add some AmazingFeature')
 Push para a branch (git push origin feature/AmazingFeature)
 Abra um Pull Request
-
 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+⚠️ Importante
+Nunca commite arquivos .env ou o banco de dados
+Mantenha suas chaves de API seguras
+O banco de dados SQLite é criado automaticamente na primeira execução
